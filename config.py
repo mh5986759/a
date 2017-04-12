@@ -14,7 +14,7 @@ check_time = 14
 bots = {
     
     "bot": [4488, "/root/bot/", "root"],
-    "esetlua": [4489, "/home/eset/esetlua/", "esetlua"],
+    "esetlua": [4489, "/home/eset/esetlua/", "eset"],
     #"Totfarangi": [4490, "/home/totfarangi/teleseed/", "totfarangi"],
 	}
 
