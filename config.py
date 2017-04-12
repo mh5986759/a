@@ -2,21 +2,21 @@
 
 bots = {
     #"BotName": [running_cli_port, "/path/to/", "user"],
-    "MyBot": [4488, "/root/teleseed", "root"],
-    "GPModBot": [4489, "/home/gpmod/teleseed/", "gpmod"],
-    "Totfarangi": [4490, "/home/totfarangi/teleseed/", "totfarangi"]
+    #"MyBot": [4488, "/root/teleseed", "root"],
+    #"GPModBot": [4489, "/home/gpmod/teleseed/", "gpmod"],
+    #"Totfarangi": [4490, "/home/totfarangi/teleseed/", "totfarangi"]
 	}
 
 	
-check_time = 15
+check_time = 14
 """
 
 bots = {
     
-    "default": [4488, "/root/teleseed/", "root"],
-    #"MegaPfulBot": [4489, "/home/mega/teleseed/", "mega"],
+    "bot": [4488, "/root/bot/", "root"],
+    "esetlua": [4489, "/home/eset/esetlua/", "esetlua"],
     #"Totfarangi": [4490, "/home/totfarangi/teleseed/", "totfarangi"],
 	}
 
 	
-check_time = 15
+check_time = 14
