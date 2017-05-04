@@ -20,4 +20,4 @@ bots = {
 	}
 
 	
-check_time = 14
+check_time = 13
