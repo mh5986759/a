@@ -15,7 +15,7 @@ bots = {
     
     #"bot": [4488, "/root/bot/", "root"],
     "esetlua": [4489, "/root/esetlua/", "root"],
-    #"security": [4488, "/home/securitybot/security/cli/bot/", "securitybot"],
+    "beyond": [4488, "/home/bot2/beyond/", "bot2"],
     #"security": [4490, "/home/securitybot/security/api/", "securitybot"],
 	}
 
