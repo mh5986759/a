@@ -8,15 +8,15 @@ bots = {
 	}
 
 	
-check_time = 15
+check_time = 14
 """
 
 bots = {
     
     #"bot": [4488, "/root/bot/", "root"],
-    #"esetlua": [4489, "/root/esetlua/", "root"],
-    "madator": [4490, "/home/bot2/madator/", "bot2"],
+    "esetlua": [4489, "/root/esetlua/", "root"],
+    #"madator": [4490, "/home/bot2/madator/", "bot2"],
 	}
 
 	
-check_time = 15
+check_time = 14
