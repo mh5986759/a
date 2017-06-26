@@ -8,7 +8,7 @@ bots = {
 	}
 
 	
-check_time = 15
+check_time = 25
 """
 
 bots = {
@@ -19,4 +19,4 @@ bots = {
 	}
 
 	
-check_time = 15
+check_time = 25
